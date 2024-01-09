@@ -15,7 +15,7 @@ public class Whastapp
 	
 	public static void main(String[] args) 
 	{
-		// to access non static member inside the main function. we have to crate an object of that class. 
+		// to access non static member inside the main function. we have to create an object of that class. 
 		Whastapp w = new Whastapp();
 	}
 }
