@@ -34,6 +34,6 @@ class Indigo extends Gmail  // sub, child
 
 public class Laptop {
 	public static void main(String[] args) {
-        new Indigo(1);
+        new Indigo(1,1,1);
 	}
 }
